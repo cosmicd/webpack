@@ -1,0 +1,7 @@
+body {
+  background: purple;
+  background-image: url('./logo.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+}
